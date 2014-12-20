@@ -3,19 +3,23 @@
 ---
 @charset "utf-8";
 
-
+@import url(http://fonts.googleapis.com/css?family=Noto+Serif:400,700,400italic);
+@import url(http://fonts.googleapis.com/css?family=Poiret+One);
 
 // Our variables
+
 $base-font-family: Helvetica, Arial, sans-serif;
+$heading-font: 'Poiret One', cursive;
 $base-font-size:   16px;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
 
+
 $spacing-unit:     30px;
 
-$text-color:       #111;
+$text-color:       #35404F;
 $background-color: #fdfdfd;
-$brand-color:      #2a7ae2;
+$brand-color:      #AA2159;
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
