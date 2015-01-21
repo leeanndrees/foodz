@@ -14,7 +14,7 @@ I saw [this internet thing about frying cheese in the waffle iron](http://www.se
 
 Wrong.
 
-![waffled cheese goddddammmmmn](./img/waffled-cheese.jpg){: .centered .medium}
+![waffled cheese goddddammmmmn]({{ site.url }}/foodz/img/waffled-cheese.jpg){: .centered .medium}
 
 So, so wrong.
 
