@@ -5,6 +5,8 @@ description: > # this means to ignore newlines until "baseurl:"
   Food I made/ate that I liked.
 baseurl: "/foodz" # the subpath of your site, e.g. /blog/
 url: "http://leeanndrees.github.io" # the base hostname & protocol for your site
+paginate: 3
+paginate_path: "/:num"
 twitter_username: leeanndrees
 github_username:  leeanndrees
 
