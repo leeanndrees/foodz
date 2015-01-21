@@ -2,7 +2,7 @@
  * Site header
  */
 .site-header {
-    border-top: 5px solid #7EC2AA;
+    border-top: 5px solid $sea-green;
     border-bottom: 1px solid #AA2159;
     min-height: 56px;
 
@@ -234,4 +234,12 @@
             font-size: 18px;
         }
     }
+}
+
+// Homepage Pagination
+.pagination {
+    text-align: center;
+    border-top: 1px solid $sea-green;
+    padding-top: 1.5em;
+    margin-top: 2em;
 }
